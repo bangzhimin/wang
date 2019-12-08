@@ -81,10 +81,15 @@ public void actionPerformed(ActionEvent arg0) {
 			}
 		}	
 	}
-
+```
 三 流程图
 ![image](https://github.com/bangzhimin/wang/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 四 运行结果
 ![image](https://github.com/bangzhimin/wang/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 ![image](https://github.com/bangzhimin/wang/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C1.png)
+
+六 实验感想
+本次实验需要面型对象的基本编程思想以及类的继承,构造函数的使用,各类之间的调用,GUI组件的使用,监听器的运用,和对文件流的操作基本知识,虽然没有数据库的参与,但是通过文件流的运用,可通过文本文件暂时代替数据库实现对数据的存取功能,
+本次实验基本上囊括了Java编程基础,但是要熟练编程还需在下一个项目(可以编写一个简单游戏,如推箱子)进行实际训练,在实践中加强请对基础知识的了解及扩展
+
