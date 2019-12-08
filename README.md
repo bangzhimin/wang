@@ -83,7 +83,8 @@ public void actionPerformed(ActionEvent arg0) {
 	}
 
 三 流程图
-![image]()
+![image](https://github.com/bangzhimin/wang/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 四 运行结果
-![image]()
+![image](https://github.com/bangzhimin/wang/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
+![image](https://github.com/bangzhimin/wang/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C1.png)
